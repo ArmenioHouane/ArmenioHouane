@@ -26,4 +26,4 @@
 
 <br/>
 
-[![Armenio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArmenioHouane)](https://github.com/anuraghazra/github-readme-stats)
+![Armenio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArmenioHouane)
