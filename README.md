@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmenioHouane&show_icons=true&theme=transparent" alt="Armenio Houane GitHub stats" width="466" height="192" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmenioHouane&hide_progress=true" alt="Top Langs" width="466" height="192" />
-</p>
+
 
 ### Technologies and Tools
 
