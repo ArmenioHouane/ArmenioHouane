@@ -1,0 +1,40 @@
+name: WakaTime Charts (yearly)
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  charts:
+    name: Build yearly charts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install matplotlib requests
+
+      - name: Build charts
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: ArmenioHouane
+        run: python scripts/wakatime_charts.py
+
+      - name: Commit charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/wakatime_languages.png assets/timeline_yearly.png
+          git diff --cached --quiet || git commit -m "Update yearly WakaTime/GitHub charts"
+          git push

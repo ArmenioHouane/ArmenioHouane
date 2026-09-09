@@ -39,14 +39,19 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /></a>
 </div>
 
-## Estatísticas do GitHub
+## Atividade de programação
+
+### WakaTime — visão geral
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArmenioHouane&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Arménio" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmenioHouane&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Arménio" />
+  <img src="https://raw.githubusercontent.com/ArmenioHouane/ArmenioHouane/main/assets/wakatime_languages.png" alt="WakaTime — tempo por linguagem (all time)" />
 </p>
 
-## Atividade de programação
+### Timeline por ano
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArmenioHouane/ArmenioHouane/main/assets/timeline_yearly.png" alt="Timeline — commits por ano" />
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2040%20mins-blue?style=flat)

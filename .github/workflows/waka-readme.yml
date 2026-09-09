@@ -35,6 +35,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SECTION_NAME: "waka"
