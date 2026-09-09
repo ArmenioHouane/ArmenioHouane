@@ -17,7 +17,9 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Must be a Personal Access Token (classic) with `repo` + `user` scopes,
+          # saved as repo secret GH_TOKEN. secrets.GITHUB_TOKEN fails with 403 on GET /user.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "True"
