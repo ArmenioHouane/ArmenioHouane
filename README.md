@@ -48,7 +48,11 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
 
 ## Atividade de programação
 
-<!--START_SECTION:waka--> <!--END_SECTION:waka--> <p align="center">
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<p align="center">
 <a href="https://wakatime.com/@ArmenioHouane" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver%20perfil%20completo-WakaTime-2e83ff?style=for-the-badge&logo=wakatime&logoColor=white" alt="Ver perfil completo no WakaTime" />
   </a>
