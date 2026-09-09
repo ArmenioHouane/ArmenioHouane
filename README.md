@@ -49,7 +49,63 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
 ## Atividade de programação
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2040%20mins-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2030%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 589.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 213 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 40 Private Repositories 
+ > 
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Tuesday                  119 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Thursday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Friday                   176 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Saturday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+Claude Code              0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ArmenioHouane/ArmenioHouane/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/09/2026 08:30:31 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
