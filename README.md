@@ -54,7 +54,7 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ Sunday                   96 commits          ███░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 10:45:22 UTC
+ Last Updated on 16/09/2026 10:34:19 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
