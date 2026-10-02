@@ -54,11 +54,11 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 590.7 kB Used in GitHub's Storage 
+> 📦 590.8 kB Used in GitHub's Storage 
  > 
 > 🏆 226 Contributions in the Year 2026
  > 
@@ -82,7 +82,7 @@ Sunday                   99 commits          ███░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 12:08:23 UTC
+ Last Updated on 02/10/2026 11:39:15 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
