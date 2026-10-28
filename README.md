@@ -54,11 +54,11 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 594.0 kB Used in GitHub's Storage 
+> 📦 593.1 kB Used in GitHub's Storage 
  > 
 > 🏆 229 Contributions in the Year 2026
  > 
@@ -71,18 +71,18 @@ Sou um desenvolvedor focado na criação de aplicações web modernas, acessíve
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Saturday                 273 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Sunday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Monday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Tuesday                  251 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Wednesday                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Saturday                 273 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Sunday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 ```
 
 
 
- Last Updated on 27/10/2026 11:20:12 UTC
+ Last Updated on 28/10/2026 11:54:18 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
